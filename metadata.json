@@ -1,0 +1,7 @@
+{
+  "name": "VOID MINER Chat | Real-Time Gaming Comms",
+  "description": "Next-gen real-time communication system for VOID MINER players. High-fidelity cosmic aesthetic with group chats, voice notes, media sharing, and Supabase integration.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
